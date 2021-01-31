@@ -1,0 +1,3 @@
+ls -lR <location>.<filetype> | wc -l
+
+eg: finding no of.mp4 in current folder:  ls -lR *.mp4 |wc -l
